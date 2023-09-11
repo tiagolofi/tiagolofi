@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Secretaria de Saúde do Estado do Maranhão and Instituto Datailha
 - 📫 How to reach me ig: @tiagolofi
 
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true&theme=github_dark_dimmed)](https://github.com/tiagolofi)
+[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true&theme=holi)](https://github.com/tiagolofi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false)
 
 <!---
 tiagolofi/tiagolofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
