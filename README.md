@@ -6,7 +6,7 @@
 
 [
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true&theme=vision-friendly-dark)](https://github.com/tiagolofi)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true&theme=vision-friendly-dark)(https://github.com/tiagolofi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false)
 
