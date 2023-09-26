@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tiagolofi
 - 👀 I’m interested in AI, econometrics and web development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Secretaria de Saúde do Estado do Maranhão and Instituto Datailha
+- 💞️ I’m looking to collaborate on Secretaria de Saúde do Estado do Maranhão
 - 📫 How to reach me ig: @tiagolofi
 
 ![Estatíticas do Perfil](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true)
