@@ -6,7 +6,7 @@
 
 <div>
   <div>
-    [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true&theme=holi)](https://github.com/tiagolofi)
+    [![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true](https://github.com/tiagolofi)
   </div>
   <div>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false)
