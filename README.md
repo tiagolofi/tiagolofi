@@ -6,14 +6,10 @@
 
 <div>
   <div>
-    <iframe>
-      https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true
-    </iframe>
+    <link href="https://github-readme-stats.vercel.app/api?username=tiagolofi&show_icons=true">
   </div>
   <div>
-    <iframe>
-      https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false
-    </iframe>
+    <link href="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolofi&hide_progress=false">
   </div>
 </div>
 
