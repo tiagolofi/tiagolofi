@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tiagolofi
 - 👀 I’m interested in AI, econometrics and web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Secretaria de Saúde do Estado do Maranhão
-- 📫 How to reach me ig: @tiagolofi
+- 🌱 I’m currently learning Python e Java
 
 <!---
 tiagolofi/tiagolofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
